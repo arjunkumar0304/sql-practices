@@ -1,6 +1,6 @@
 # sql-practices
 
-TABLE - 1 (PRACTICES_EMP)
+# TABLE - 1 (PRACTICES_EMP)
 
 <img width="953" height="962" alt="Screenshot 2025-11-04 142823" src="https://github.com/user-attachments/assets/49c9abf8-22b4-4beb-8a06-c47a7d48fb13" />
 
@@ -41,7 +41,7 @@ TABLE - 1 (PRACTICES_EMP)
 <img width="431" height="445" alt="Screenshot 2025-11-04 143354" src="https://github.com/user-attachments/assets/c5ef11b1-fa77-468c-9a0d-9bbeb9a6a4e7" />
 
 
-TABLE 2 - (PRACTICES_ORDER)
+# TABLE 2 - (PRACTICES_ORDER)
 
 <img width="1085" height="623" alt="Screenshot 2025-11-04 144334" src="https://github.com/user-attachments/assets/5ca14dd7-8cdf-4cae-acde-9c76946c32f7" />
 
