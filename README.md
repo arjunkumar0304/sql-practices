@@ -34,6 +34,7 @@
 
 
 7. Find the youngest employee in the company.
+
 <img width="608" height="296" alt="Screenshot 2025-11-04 143337" src="https://github.com/user-attachments/assets/ec262cf3-9ea7-4630-916b-3135eeaf0fe8" />
 
 8. Rename the column “salary” as “employee_salary” in output.
@@ -47,29 +48,82 @@
 
 
 1. Find the total order amount per customer.
+
 <img width="553" height="339" alt="Screenshot 2025-11-04 144726" src="https://github.com/user-attachments/assets/52fb0165-f7f4-40c8-857a-c041b1b1ab87" />
 
 
 2.Retrieve customers who have made more than one order.
+
 <img width="697" height="453" alt="Screenshot 2025-11-04 144739" src="https://github.com/user-attachments/assets/5ae3eb8c-5b26-4d9c-9443-dcdbd7f24844" />
 
 
 3.Get the highest and lowest order amount.
+
 <img width="445" height="256" alt="Screenshot 2025-11-04 144843" src="https://github.com/user-attachments/assets/5c58047a-fcb1-4dc2-9915-0fbb602c45da" />
 
 
 4.Display all orders placed in May 2024.
+
 <img width="677" height="405" alt="Screenshot 2025-11-04 144854" src="https://github.com/user-attachments/assets/218f5c13-41ff-4094-8416-e226aea983c1" />
 
 
 5.Calculate the average order amount for each customer.
+
 <img width="443" height="418" alt="Screenshot 2025-11-04 144905" src="https://github.com/user-attachments/assets/2a0a6493-ebaf-4b5c-9ca9-ea29fd474a6a" />
 
 
 6.Find the top 1 customer based on total order value.
+
 <img width="464" height="354" alt="Screenshot 2025-11-04 145042" src="https://github.com/user-attachments/assets/67d1bf6a-5794-49d8-94f6-f141665bc532" />
 
 
 7.Find orders where amount > average order amount.
+
 <img width="603" height="298" alt="Screenshot 2025-11-04 145054" src="https://github.com/user-attachments/assets/f2ce5a7f-c1b6-46ce-b3e8-166412b45b2b" />
+
+
+
+# table 4(departments) & table 5(employees)
+
+<img width="1167" height="973" alt="Screenshot 2025-11-04 175157" src="https://github.com/user-attachments/assets/f1aa53dc-a8d3-4e16-a310-c88b6ced595f" />
+
+
+1.Display employee names along with their department names.
+
+<img width="477" height="363" alt="Screenshot 2025-11-04 175212" src="https://github.com/user-attachments/assets/4ee8b44e-3e97-47fb-8dbb-a7b10358829e" />
+
+
+2.Find the average salary per department.
+
+<img width="659" height="346" alt="Screenshot 2025-11-04 175226" src="https://github.com/user-attachments/assets/06f20d1f-7aaa-4cf8-8382-86bb652fa527" />
+
+
+
+3.Display departments where average salary > 45,000.
+
+<img width="673" height="440" alt="Screenshot 2025-11-04 175249" src="https://github.com/user-attachments/assets/29815896-a14b-4529-a04c-1124720038a2" />
+
+
+
+4.Use a window function to rank employees based on salary.
+
+<img width="757" height="473" alt="Screenshot 2025-11-04 175300" src="https://github.com/user-attachments/assets/0ca7021a-1019-48bf-869c-967e5f7d90d5" />
+
+
+
+5.Find the second highest salary using RANK().
+
+<img width="636" height="458" alt="Screenshot 2025-11-04 175314" src="https://github.com/user-attachments/assets/ba1c8860-c242-4695-9f45-13b3528c1267" />
+
+
+
+6.Display employees who earn more than the department average.
+
+<img width="819" height="387" alt="Screenshot 2025-11-04 175345" src="https://github.com/user-attachments/assets/0679ba5c-64a1-42ad-becb-4a23a78008b4" />
+
+
+
+7.Create a view to show employee name, dept_name, and salary.
+
+<img width="602" height="461" alt="Screenshot 2025-11-04 175412" src="https://github.com/user-attachments/assets/0958cb6d-7db2-4cdd-992f-fc6949cdf01a" />
 
