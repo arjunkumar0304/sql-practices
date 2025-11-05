@@ -1,5 +1,6 @@
 # sql-practices
 
+# (04.10.25)
 # TABLE - 1 (PRACTICES_EMP)
 
 <img width="953" height="962" alt="Screenshot 2025-11-04 142823" src="https://github.com/user-attachments/assets/49c9abf8-22b4-4beb-8a06-c47a7d48fb13" />
@@ -126,4 +127,42 @@
 7.Create a view to show employee name, dept_name, and salary.
 
 <img width="602" height="461" alt="Screenshot 2025-11-04 175412" src="https://github.com/user-attachments/assets/0958cb6d-7db2-4cdd-992f-fc6949cdf01a" />
+
+
+# (05.10.25)
+sql practices
+
+Show departments where average salary is greater than ₹45,000.
+
+<img width="496" height="410" alt="Screenshot 2025-11-05 160544" src="https://github.com/user-attachments/assets/7973b4d8-6758-4432-b81f-b050f8dccd52" />
+
+Find departments that have more than 1 employee.
+
+<img width="480" height="583" alt="Screenshot 2025-11-05 162419" src="https://github.com/user-attachments/assets/7b80357b-0229-42d8-be56-2db95482eab3" />
+
+
+Show departments where total salary is above ₹1,00,000.
+
+<img width="506" height="486" alt="Screenshot 2025-11-05 162920" src="https://github.com/user-attachments/assets/5fb19517-b88c-4f3c-8436-4a5cdc8fe8a0" />
+
+
+Display department(s) where the maximum salary is greater than ₹50,000.
+
+<img width="504" height="437" alt="Screenshot 2025-11-05 163038" src="https://github.com/user-attachments/assets/ce0b393a-5f64-4e5c-a193-9dec5f47c3bf" />
+
+
+
+Find departments where the minimum salary is less than ₹45,000.
+
+<img width="502" height="388" alt="Screenshot 2025-11-05 163129" src="https://github.com/user-attachments/assets/9b2630c4-88b8-4fce-941b-4c53ab36f01e" />
+
+
+Display departments in order of highest average salary.
+
+<img width="483" height="396" alt="Screenshot 2025-11-05 163540" src="https://github.com/user-attachments/assets/600f035e-94d1-4347-9a56-0e56a29fc8f4" />
+
+
+Display the department with the highest total salary.
+
+<img width="634" height="510" alt="Screenshot 2025-11-05 165857" src="https://github.com/user-attachments/assets/407bf473-d2b7-4e1b-8632-1577ba2826ae" />
 
