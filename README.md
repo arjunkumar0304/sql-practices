@@ -166,3 +166,75 @@ Display the department with the highest total salary.
 
 <img width="634" height="510" alt="Screenshot 2025-11-05 165857" src="https://github.com/user-attachments/assets/407bf473-d2b7-4e1b-8632-1577ba2826ae" />
 
+
+
+# py(lambda function)
+
+Write a lambda function to add two numbers.
+
+<img width="566" height="437" alt="Screenshot 2025-11-05 182714" src="https://github.com/user-attachments/assets/d04204c8-bbdb-4e28-8106-d065c300d274" />
+
+Write a lambda to find the square of a number.
+
+<img width="618" height="485" alt="Screenshot 2025-11-05 182746" src="https://github.com/user-attachments/assets/88c7e424-0afa-44ee-ada4-1b9c7731880e" />
+
+
+
+Write a lambda to check whether a number is even or odd.
+
+<img width="572" height="281" alt="Screenshot 2025-11-05 182827" src="https://github.com/user-attachments/assets/2ad02e9f-5c2a-4dc2-a6ee-48c9a523fc1c" />
+
+Write a lambda to get the maximum of two numbers
+
+<img width="635" height="574" alt="Screenshot 2025-11-05 182929" src="https://github.com/user-attachments/assets/6c9ae7d9-cacc-474d-8f5b-59020bd8a465" />
+
+
+Write a lambda that returns the length of a given string.
+
+<img width="586" height="562" alt="image" src="https://github.com/user-attachments/assets/43335d5b-35ff-44aa-8897-8c26ac9d1856" />
+
+
+
+
+Using map() and lambda, double each number in a list.
+
+<img width="723" height="541" alt="Screenshot 2025-11-05 184348" src="https://github.com/user-attachments/assets/32c2228d-0c32-44e1-aeb4-630cff8147c5" />
+
+
+Using map(), convert all strings to uppercase.
+
+<img width="715" height="620" alt="Screenshot 2025-11-05 184610" src="https://github.com/user-attachments/assets/f058a003-c71e-480d-9b7b-951e5b75212f" />
+
+
+Using map(), find the cube of each number in a list.
+
+<img width="656" height="719" alt="Screenshot 2025-11-05 184743" src="https://github.com/user-attachments/assets/486eb032-08c5-400a-acbd-31081cb33782" />
+
+
+
+Using filter(), get only even numbers from a list.
+
+
+<img width="630" height="646" alt="Screenshot 2025-11-05 190225" src="https://github.com/user-attachments/assets/5f58ff3b-dabd-4c49-b04d-ce3c8601f48b" />
+
+
+Using filter(), get numbers greater than 10.
+
+<img width="704" height="685" alt="Screenshot 2025-11-05 190203" src="https://github.com/user-attachments/assets/ea21d6d6-09d9-46fd-a724-e382f41b6ddb" />
+
+
+
+Using filter(), get all strings that start with “a”.
+
+
+
+<img width="837" height="714" alt="Screenshot 2025-11-05 185701" src="https://github.com/user-attachments/assets/88d20d77-3545-41e0-8510-54340558db4c" />
+
+
+
+
+
+
+
+
+
