@@ -1,6 +1,6 @@
 # sql-practices
 
-# (04.10.25)
+# (04.11.25)
 # TABLE - 1 (PRACTICES_EMP)
 
 <img width="953" height="962" alt="Screenshot 2025-11-04 142823" src="https://github.com/user-attachments/assets/49c9abf8-22b4-4beb-8a06-c47a7d48fb13" />
@@ -43,7 +43,7 @@
 <img width="431" height="445" alt="Screenshot 2025-11-04 143354" src="https://github.com/user-attachments/assets/c5ef11b1-fa77-468c-9a0d-9bbeb9a6a4e7" />
 
 
-# TABLE 2 - (PRACTICES_ORDER)
+# TABLE 2 - (PRACTICES_ORDER) (where, groupby, having) (aggregate function)
 
 <img width="1085" height="623" alt="Screenshot 2025-11-04 144334" src="https://github.com/user-attachments/assets/5ca14dd7-8cdf-4cae-acde-9c76946c32f7" />
 
@@ -129,7 +129,7 @@
 <img width="602" height="461" alt="Screenshot 2025-11-04 175412" src="https://github.com/user-attachments/assets/0958cb6d-7db2-4cdd-992f-fc6949cdf01a" />
 
 
-# (05.10.25)
+# (05.11.25)
 sql practices
 
 Show departments where average salary is greater than ₹45,000.
@@ -230,6 +230,65 @@ Using filter(), get all strings that start with “a”.
 
 <img width="837" height="714" alt="Screenshot 2025-11-05 185701" src="https://github.com/user-attachments/assets/88d20d77-3545-41e0-8510-54340558db4c" />
 
+
+# SQL PRACTICES (WINDOW FUNCTION)
+
+06.11.25
+
+
+
+
+Find total salary of each department (but show all employees).
+
+<img width="711" height="397" alt="Screenshot 2025-11-06 145305" src="https://github.com/user-attachments/assets/ccc7079f-c428-4f0c-ae58-e99d48af550d" />
+
+
+Find average salary of each department.
+
+
+<img width="744" height="436" alt="Screenshot 2025-11-06 145328" src="https://github.com/user-attachments/assets/a5c15c0d-08f6-4ee9-a1f4-d6fdd8195905" />
+
+
+Give each employee a rank based on salary within their department.
+
+
+<img width="876" height="464" alt="Screenshot 2025-11-06 145353" src="https://github.com/user-attachments/assets/b0db1e73-a21f-40eb-82f7-b36dcd962de9" />
+
+
+Assign a unique row number to each employee in each department.
+
+<img width="850" height="397" alt="Screenshot 2025-11-06 145412" src="https://github.com/user-attachments/assets/17a0b7af-0a04-4463-b283-7d72df4fc62d" />
+
+
+
+Find cumulative (running) total of salaries when ordered by emp_id.
+
+<img width="742" height="457" alt="Screenshot 2025-11-06 145428" src="https://github.com/user-attachments/assets/04393673-e7f5-4db4-914b-9269dff9cdd5" />
+
+
+
+
+Find the highest salary in each department.
+
+<img width="672" height="441" alt="Screenshot 2025-11-06 145443" src="https://github.com/user-attachments/assets/63e8987e-ab5e-401c-ac00-966dbd8d3a39" />
+
+
+
+Compare each employee’s salary with the previous employee’s salary (based on emp_id).
+
+<img width="784" height="450" alt="Screenshot 2025-11-06 145505" src="https://github.com/user-attachments/assets/b5bca535-ce52-492d-9958-33b377fd213e" />
+
+|
+
+Show each employee’s salary and the next employee’s salary.
+
+<img width="674" height="348" alt="Screenshot 2025-11-06 145520" src="https://github.com/user-attachments/assets/4d948636-fb41-416d-93bd-ebeb829f6e14" />
+
+
+
+Divide all employees into 3 groups based on salary.
+
+<img width="584" height="408" alt="Screenshot 2025-11-06 145600" src="https://github.com/user-attachments/assets/fff0571c-cb40-45f3-b511-98472158ecad" />
 
 
 
