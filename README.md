@@ -291,8 +291,51 @@ Divide all employees into 3 groups based on salary.
 <img width="584" height="408" alt="Screenshot 2025-11-06 145600" src="https://github.com/user-attachments/assets/fff0571c-cb40-45f3-b511-98472158ecad" />
 
 
+# python practice
+
+Create a list of 5 numbers and print their sum.
+<img width="523" height="412" alt="Screenshot 2025-11-06 181155" src="https://github.com/user-attachments/assets/e049c55b-052f-4366-a9f1-6170f5e5b562" />
 
 
+Find the maximum and minimum values from a list.
+
+<img width="513" height="643" alt="Screenshot 2025-11-06 181349" src="https://github.com/user-attachments/assets/c8fd97f7-30b5-40b0-a146-e988e33db6b7" />
+
+Reverse a list without using reverse() function.
+
+<img width="559" height="497" alt="Screenshot 2025-11-06 181638" src="https://github.com/user-attachments/assets/d9b9a16c-34dd-4d38-9c76-26f3e8966dee" />
+
+
+Count how many times an element appears in a list.
+<img width="589" height="566" alt="Screenshot 2025-11-06 181712" src="https://github.com/user-attachments/assets/53c4c957-f24a-470e-adb0-1f6b5f55be5c" />
+
+
+Remove duplicates from a list.
+
+<img width="558" height="608" alt="Screenshot 2025-11-06 182039" src="https://github.com/user-attachments/assets/fd475e0d-ff32-4b55-a6bb-c5f55c6f9819" />
+
+
+
+ Print only the even numbers from a list.
+
+<img width="588" height="793" alt="Screenshot 2025-11-06 182052" src="https://github.com/user-attachments/assets/e5b44b4b-94b6-4ad7-a8eb-e3127b331ccb" />
+
+
+
+
+count the number of vowels in a given string
+
+<img width="417" height="586" alt="image" src="https://github.com/user-attachments/assets/cf4c9080-f4d2-4faa-a05f-c552f5ec3340" />
+
+
+palindrome
+
+<img width="516" height="541" alt="image" src="https://github.com/user-attachments/assets/6a29bf4d-adbf-4dd2-8025-8bfe546822cc" />
+
+
+palindrome without slicing method
+
+<img width="402" height="582" alt="image" src="https://github.com/user-attachments/assets/69ab91f2-d27c-4824-9159-5a4344954b57" />
 
 
 
