@@ -338,5 +338,21 @@ palindrome without slicing method
 <img width="402" height="582" alt="image" src="https://github.com/user-attachments/assets/69ab91f2-d27c-4824-9159-5a4344954b57" />
 
 
+*************
 
+
+
+Find employees who earn more than the average salary of all employees.
+<img width="887" height="411" alt="Screenshot 2025-11-07 185509" src="https://github.com/user-attachments/assets/38eb6393-c1f4-4311-8cab-d675a6325aaf" />
+
+
+
+
+Find employees whose salary is greater than the minimum salary in the IT department.
+<img width="1060" height="488" alt="Screenshot 2025-11-07 185529" src="https://github.com/user-attachments/assets/bc152d52-0b4f-4e24-b247-f58dfe8a74b3" />
+
+
+
+Find the second highest salary in the company.
+<img width="1023" height="417" alt="Screenshot 2025-11-07 185544" src="https://github.com/user-attachments/assets/c385fe8a-4436-4e4f-8363-c665c390f7fb" />
 
