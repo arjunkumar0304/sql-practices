@@ -356,3 +356,27 @@ Find employees whose salary is greater than the minimum salary in the IT departm
 Find the second highest salary in the company.
 <img width="1023" height="417" alt="Screenshot 2025-11-07 185544" src="https://github.com/user-attachments/assets/c385fe8a-4436-4e4f-8363-c665c390f7fb" />
 
+-----------------------------------------------------------------------------------------------------------------
+
+
+<img width="1143" height="498" alt="Screenshot 2025-11-10 183517" src="https://github.com/user-attachments/assets/4ec9b066-e188-4a10-8abb-d5fe67dc3307" />
+
+
+
+<img width="1143" height="498" alt="Screenshot 2025-11-10 183517" src="https://github.com/user-attachments/assets/1a13674b-4ca6-4862-a046-4d6b4d3dc9f6" />
+
+
+<img width="519" height="680" alt="Screenshot 2025-11-10 183414" src="https://github.com/user-attachments/assets/26faf3ff-5b92-4f98-ab03-14e48f443278" />
+
+
+
+<img width="477" height="495" alt="Screenshot 2025-11-10 183429" src="https://github.com/user-attachments/assets/420b34ab-d0ac-434e-8acf-f199d6a9f67d" />
+
+
+
+<img width="1143" height="498" alt="Screenshot 2025-11-10 183517" src="https://github.com/user-attachments/assets/ca281d7e-86ab-4669-a13a-fee312f4efb7" />
+
+
+
+<img width="833" height="296" alt="image" src="https://github.com/user-attachments/assets/3743e934-1730-4365-b0c8-afd46e3b1617" />
+
