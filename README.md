@@ -486,3 +486,40 @@ Show customer names who have placed orders.
 
 <img width="533" height="504" alt="Screenshot 2025-11-11 172538" src="https://github.com/user-attachments/assets/9cbe640b-ac06-4a7d-93da-317d93b828a2" />
 
+
+
+Using map() and lambda, double each number in a list.
+
+<img width="723" height="541" alt="Screenshot 2025-11-05 184348" src="https://github.com/user-attachments/assets/32c2228d-0c32-44e1-aeb4-630cff8147c5" />
+
+
+Using map(), convert all strings to uppercase.
+
+<img width="715" height="620" alt="Screenshot 2025-11-05 184610" src="https://github.com/user-attachments/assets/f058a003-c71e-480d-9b7b-951e5b75212f" />
+
+
+Using map(), find the cube of each number in a list.
+
+<img width="656" height="719" alt="Screenshot 2025-11-05 184743" src="https://github.com/user-attachments/assets/486eb032-08c5-400a-acbd-31081cb33782" />
+
+
+
+Using filter(), get only even numbers from a list.
+
+
+<img width="630" height="646" alt="Screenshot 2025-11-05 190225" src="https://github.com/user-attachments/assets/5f58ff3b-dabd-4c49-b04d-ce3c8601f48b" />
+
+
+Using filter(), get numbers greater than 10.
+
+<img width="704" height="685" alt="Screenshot 2025-11-05 190203" src="https://github.com/user-attachments/assets/ea21d6d6-09d9-46fd-a724-e382f41b6ddb" />
+
+
+
+Using filter(), get all strings that start with “a”.
+
+
+
+<img width="837" height="714" alt="Screenshot 2025-11-05 185701" src="https://github.com/user-attachments/assets/88d20d77-3545-41e0-8510-54340558db4c" />
+
+
