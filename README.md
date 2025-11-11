@@ -380,3 +380,109 @@ Find the second highest salary in the company.
 
 <img width="833" height="296" alt="image" src="https://github.com/user-attachments/assets/3743e934-1730-4365-b0c8-afd46e3b1617" />
 
+
+*****************************************************************************************************************************************************//**********//****************************/
+
+Find total salary of each department (but show all employees).
+
+<img width="711" height="397" alt="Screenshot 2025-11-06 145305" src="https://github.com/user-attachments/assets/ccc7079f-c428-4f0c-ae58-e99d48af550d" />
+
+
+Find average salary of each department.
+
+
+<img width="744" height="436" alt="Screenshot 2025-11-06 145328" src="https://github.com/user-attachments/assets/a5c15c0d-08f6-4ee9-a1f4-d6fdd8195905" />
+
+
+Give each employee a rank based on salary within their department.
+
+
+<img width="876" height="464" alt="Screenshot 2025-11-06 145353" src="https://github.com/user-attachments/assets/b0db1e73-a21f-40eb-82f7-b36dcd962de9" />
+
+
+Assign a unique row number to each employee in each department.
+
+<img width="850" height="397" alt="Screenshot 2025-11-06 145412" src="https://github.com/user-attachments/assets/17a0b7af-0a04-4463-b283-7d72df4fc62d" />
+
+
+
+Find cumulative (running) total of salaries when ordered by emp_id.
+
+<img width="742" height="457" alt="Screenshot 2025-11-06 145428" src="https://github.com/user-attachments/assets/04393673-e7f5-4db4-914b-9269dff9cdd5" />
+
+
+
+
+Find the highest salary in each department.
+
+<img width="672" height="441" alt="Screenshot 2025-11-06 145443" src="https://github.com/user-attachments/assets/63e8987e-ab5e-401c-ac00-966dbd8d3a39" />
+
+
+
+Compare each employee’s salary with the previous employee’s salary (based on emp_id).
+
+<img width="784" height="450" alt="Screenshot 2025-11-06 145505" src="https://github.com/user-attachments/assets/b5bca535-ce52-492d-9958-33b377fd213e" />
+
+|
+
+Show each employee’s salary and the next employee’s salary.
+
+<img width="674" height="348" alt="Screenshot 2025-11-06 145520" src="https://github.com/user-attachments/assets/4d948636-fb41-416d-93bd-ebeb829f6e14" />
+
+
+Show customer names who have placed orders.
+(Hint: only matching records → INNER JOIN)
+
+
+<img width="834" height="296" alt="Screenshot 2025-11-10 183732" src="https://github.com/user-attachments/assets/3f4a249b-822d-450b-beba-e50348742f46" />
+
+
+2️⃣ Show all customers and their order amounts (even if they haven’t ordered).
+(Hint: show all from Customers)
+
+<img width="464" height="414" alt="Screenshot 2025-11-11 172255" src="https://github.com/user-attachments/assets/e560d650-791e-4d92-af68-7b94c66adfc2" />
+
+3️⃣ Show all orders and customer names (even if customer not found).
+(Hint: show all from Orders)
+
+<img width="490" height="341" alt="Screenshot 2025-11-11 172311" src="https://github.com/user-attachments/assets/78aa8b08-7689-4c16-939f-0c05642840eb" />
+
+
+4️⃣ Show all customers and orders, match if possible.
+(Hint: combine both sides)
+
+<img width="429" height="351" alt="Screenshot 2025-11-11 172335" src="https://github.com/user-attachments/assets/e281bec1-511c-46d4-8bbc-41401bf2212c" />
+
+5️⃣ Show all combinations of customers and products.
+(Hint: every customer × every product)
+
+<img width="520" height="421" alt="Screenshot 2025-11-11 172355" src="https://github.com/user-attachments/assets/d2231e53-4dcf-48aa-a014-b7db947f3647" />
+
+
+🔹 Intermediate Join Practice
+
+6️⃣ Show each order with product names and quantity sold.
+(Hint: Orders → Sales → Products)
+
+
+<img width="610" height="544" alt="Screenshot 2025-11-11 172413" src="https://github.com/user-attachments/assets/88bbdc18-ee6b-4210-b71d-e3c446faf12c" />
+
+
+7️⃣ Show each customer name with the product names they bought.
+(Hint: Customers → Orders → Sales → Products)
+
+
+<img width="461" height="379" alt="Screenshot 2025-11-11 172456" src="https://github.com/user-attachments/assets/13737c6f-580d-4abc-acd9-836134b831a0" />
+
+
+8️⃣ Show all products that have never been sold.
+(Hint: Products table + LEFT JOIN Sales)
+
+<img width="539" height="319" alt="Screenshot 2025-11-11 172520" src="https://github.com/user-attachments/assets/90ee4bef-a623-4920-8a33-58e293b090cb" />
+
+
+9️⃣ Show total quantity of each product sold.
+(Hint: Use JOIN + GROUP BY)
+
+<img width="533" height="504" alt="Screenshot 2025-11-11 172538" src="https://github.com/user-attachments/assets/9cbe640b-ac06-4a7d-93da-317d93b828a2" />
+
