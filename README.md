@@ -523,3 +523,31 @@ Using filter(), get all strings that start with “a”.
 <img width="837" height="714" alt="Screenshot 2025-11-05 185701" src="https://github.com/user-attachments/assets/88d20d77-3545-41e0-8510-54340558db4c" />
 
 
+----------------------------------------------------------------------------------------------------------
+
+
+
+Show departments where average salary is greater than ₹45,000.
+
+<img width="496" height="410" alt="Screenshot 2025-11-05 160544" src="https://github.com/user-attachments/assets/7973b4d8-6758-4432-b81f-b050f8dccd52" />
+
+Find departments that have more than 1 employee.
+
+<img width="480" height="583" alt="Screenshot 2025-11-05 162419" src="https://github.com/user-attachments/assets/7b80357b-0229-42d8-be56-2db95482eab3" />
+
+
+Show departments where total salary is above ₹1,00,000.
+
+<img width="506" height="486" alt="Screenshot 2025-11-05 162920" src="https://github.com/user-attachments/assets/5fb19517-b88c-4f3c-8436-4a5cdc8fe8a0" />
+
+
+Display department(s) where the maximum salary is greater than ₹50,000.
+
+<img width="504" height="437" alt="Screenshot 2025-11-05 163038" src="https://github.com/user-attachments/assets/ce0b393a-5f64-4e5c-a193-9dec5f47c3bf" />
+
+
+
+Find departments where the minimum salary is less than ₹45,000.
+
+<img width="502" height="388" alt="Screenshot 2025-11-05 163129" src="https://github.com/user-attachments/assets/9b2630c4-88b8-4fce-941b-4c53ab36f01e" />
+
