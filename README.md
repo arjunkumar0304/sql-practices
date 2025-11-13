@@ -551,3 +551,26 @@ Find departments where the minimum salary is less than ₹45,000.
 
 <img width="502" height="388" alt="Screenshot 2025-11-05 163129" src="https://github.com/user-attachments/assets/9b2630c4-88b8-4fce-941b-4c53ab36f01e" />
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+ Print only the even numbers from a list.
+
+<img width="588" height="793" alt="Screenshot 2025-11-06 182052" src="https://github.com/user-attachments/assets/e5b44b4b-94b6-4ad7-a8eb-e3127b331ccb" />
+
+
+
+
+count the number of vowels in a given string
+
+<img width="417" height="586" alt="image" src="https://github.com/user-attachments/assets/cf4c9080-f4d2-4faa-a05f-c552f5ec3340" />
+
+
+palindrome
+
+<img width="516" height="541" alt="image" src="https://github.com/user-attachments/assets/6a29bf4d-adbf-4dd2-8025-8bfe546822cc" />
+
+
+palindrome without slicing method
+
+<img width="402" height="582" alt="image" src="https://github.com/user-attachments/assets/69ab91f2-d27c-4824-9159-5a4344954b57" />
