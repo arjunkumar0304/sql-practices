@@ -215,6 +215,8 @@ Using map(), find the cube of each number in a list.
 Using filter(), get only even numbers from a list.
 
 
+
+
 <img width="630" height="646" alt="Screenshot 2025-11-05 190225" src="https://github.com/user-attachments/assets/5f58ff3b-dabd-4c49-b04d-ce3c8601f48b" />
 
 
@@ -294,6 +296,7 @@ Divide all employees into 3 groups based on salary.
 # python practice
 
 Create a list of 5 numbers and print their sum.
+
 <img width="523" height="412" alt="Screenshot 2025-11-06 181155" src="https://github.com/user-attachments/assets/e049c55b-052f-4366-a9f1-6170f5e5b562" />
 
 
@@ -307,6 +310,7 @@ Reverse a list without using reverse() function.
 
 
 Count how many times an element appears in a list.
+
 <img width="589" height="566" alt="Screenshot 2025-11-06 181712" src="https://github.com/user-attachments/assets/53c4c957-f24a-470e-adb0-1f6b5f55be5c" />
 
 
@@ -343,17 +347,20 @@ palindrome without slicing method
 
 
 Find employees who earn more than the average salary of all employees.
+
 <img width="887" height="411" alt="Screenshot 2025-11-07 185509" src="https://github.com/user-attachments/assets/38eb6393-c1f4-4311-8cab-d675a6325aaf" />
 
 
 
 
 Find employees whose salary is greater than the minimum salary in the IT department.
+
 <img width="1060" height="488" alt="Screenshot 2025-11-07 185529" src="https://github.com/user-attachments/assets/bc152d52-0b4f-4e24-b247-f58dfe8a74b3" />
 
 
 
 Find the second highest salary in the company.
+
 <img width="1023" height="417" alt="Screenshot 2025-11-07 185544" src="https://github.com/user-attachments/assets/c385fe8a-4436-4e4f-8363-c665c390f7fb" />
 
 -----------------------------------------------------------------------------------------------------------------
